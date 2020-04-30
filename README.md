@@ -36,7 +36,7 @@ Records:
 2019-01-02 18:45, 200  
 2019-01-02 21:38, 150  
 
-Write a SQL to get total sales for each hour, starting from 00 to 24, please note that you can't create any temp table. The result should look like that:  
+Write a SQL to get total sales for each hour, starting from 00 to 23, please note that you can't create any temp table. The result should look like that:  
 Hour, TotalAmount  
 0, 0  
 1, 0  
@@ -53,4 +53,3 @@ Hour, TotalAmount
 21, 150  
 22, 0  
 23, 0  
-24, 0
